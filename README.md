@@ -7,7 +7,7 @@
 * Необходимо сделать так, чтобы rsync подсчитывал хэш-суммы для всех файлов, даже если их время модификации и размер идентичны в источнике и приемнике.
 * На проверку направить скриншот с командой и результатом ее выполнения
 
-[alt text]{https://raw.githubusercontent.com/Kovrei/backup/main/img/backup1.PNG}
+![alt text]{https://raw.githubusercontent.com/Kovrei/backup/main/img/backup1.PNG}
 
 ## Задание 2
 
@@ -17,7 +17,7 @@
 * Резервная копия размещается локально, в директории /tmp/backup
 * На проверку направить файл crontab и скриншот с результатом работы утилиты.
 
-[alt text]{https://raw.githubusercontent.com/Kovrei/backup/main/img/crontabbackup.PNG}
+![alt text]{https://raw.githubusercontent.com/Kovrei/backup/main/img/crontabbackup.PNG}
 
-[alt text]{https://raw.githubusercontent.com/Kovrei/backup/main/img/backupsh1.PNG}
-[alt text]{https://raw.githubusercontent.com/Kovrei/backup/main/img/backupsh2.PNG}
+![alt text]{https://raw.githubusercontent.com/Kovrei/backup/main/img/backupsh1.PNG}
+![alt text]{https://raw.githubusercontent.com/Kovrei/backup/main/img/backupsh2.PNG}
